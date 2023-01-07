@@ -6,4 +6,4 @@ Feel free to connect with me at nicolastiennguyen@gmail.com :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastiennguyen&layout=compact&theme=dark)](https://github.com/nicolastiennguyen/github-readme-stats)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/nicolastiennguyen)](https://leetcode.com/nicolastiennguyen)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nicolastiennguyen?ext=heatmap)](https://leetcode.com/nicolastiennguyen)
