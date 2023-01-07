@@ -2,4 +2,4 @@ Hey! I am a full-stack software engineer who enjoys building software that solve
 
 Feel free to connect with me at nicolastiennguyen@gmail.com :)
 
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolastiennguyen)](https://github.com/nicolastiennguyen/github-readme-stats)
+![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolastiennguyen&show_icons=true&theme=dark)
