@@ -2,7 +2,7 @@ Hey! I am a full-stack software engineer who enjoys building software that solve
 
 Feel free to connect with me at nicolastiennguyen@gmail.com :)
 
-![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolastiennguyen&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolastiennguyen&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastiennguyen&layout=compact&theme=dark)](https://github.com/nicolastiennguyen/github-readme-stats)
 
