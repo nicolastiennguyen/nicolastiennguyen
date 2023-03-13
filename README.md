@@ -6,6 +6,8 @@ Hey! I'm a software engineer who enjoys building applications that solve real wo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolastiennguyen&layout=compact&theme=dark)](https://github.com/nicolastiennguyen/github-readme-stats)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/nicolastiennguyen?ext=activity)](https://leetcode.com/nicolastiennguyen)
 <!---
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/nicolastiennguyen?ext=activity)](https://leetcode.com/nicolastiennguyen)
+
 -->
